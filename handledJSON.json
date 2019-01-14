@@ -1,0 +1,2349 @@
+[
+  {
+    "email": "800mybindo.subscribers@bindo.com",
+    "name": "800-My-Bindo Subscribers",
+    "type": "Team (Internet)",
+    "member": [
+      "irene.chan@bindo.com",
+      "jason.ngan@bindo.com"
+    ]
+  },
+  {
+    "email": "ach.subscribers@bindo.com",
+    "name": "Ach",
+    "type": "Team (Internet)",
+    "member": [
+      "dan.merns@bindo.com",
+      "irene.chan@bindo.com",
+      "jason.ngan@bindo.com"
+    ]
+  },
+  {
+    "email": "administrator@bindo.com",
+    "name": "administrator",
+    "type": "Custom",
+    "member": [
+      "irene.chan@bindo.com",
+      "jason.ngan@bindo.com"
+    ]
+  },
+  {
+    "email": "adyen@bindo.com",
+    "name": "Adyen (moved)",
+    "type": "Team (Internet)",
+    "member": [
+      "adyen@bindo.cojason.ngan@bindo.com",
+      "levey.zhu@bindo.com"
+    ]
+  },
+  {
+    "email": "am@bindo.com",
+    "name": "Account Management",
+    "type": "Team (Internet)",
+    "member": [
+      "irene.chan@bindo.com",
+      "jason.ngan@bindo.com"
+    ]
+  },
+  {
+    "email": "android.dev@bindo.com",
+    "name": "Android Developers",
+    "type": "Team (domain)",
+    "member": [
+      "irene.chan@bindo.com",
+      "jason.ngan@bindo.com",
+      "levey.zhu@bindo.com"
+    ]
+  },
+  {
+    "email": "android@bindo.com",
+    "name": "Android | Bindo",
+    "type": "Team (Internet)",
+    "member": [
+      "jason.ngan@bindo.com"
+    ]
+  },
+  {
+    "email": "api.support@bindo.com",
+    "name": "api.support",
+    "type": "Public (domain)",
+    "member": [
+      "feo.chen@bindo.com",
+      "irene.chan@bindo.com",
+      "jason.ngan@bindo.com",
+      "miracle.su@bindo.com",
+      "misko.lee@bindo.com"
+    ]
+  },
+  {
+    "email": "app.dev.team@bindo.com",
+    "name": "app.dev.team@bindo.com",
+    "type": "Team (Internet)",
+    "member": [
+      "jack.chang@bindo.com",
+      "jason.ngan@bindo.com"
+    ]
+  },
+  {
+    "email": "app.kiosk.team@bindo.com",
+    "name": "app.kiosk.team@bindo.com",
+    "type": "Team (Internet)",
+    "member": [
+      "alison.ngan@bindo.com",
+      "eddie.wong@bindo.com",
+      "irene.chan@bindo.com",
+      "jason.ngan@bindo.com",
+      "misko.lee@bindo.com",
+      "pillar.liang@bindo.com",
+      "soul.wang@bindo.com"
+    ]
+  },
+  {
+    "email": "app.platform.team@bindo.com",
+    "name": "App Platform",
+    "type": "Custom",
+    "member": [
+      "alison.ngan@bindo.com",
+      "irene.chan@bindo.com",
+      "ken.mui@antcosa.com"
+    ]
+  },
+  {
+    "email": "appstore@bindo.com",
+    "name": "AppStore",
+    "type": "Team (Internet)",
+    "member": [
+      "irene.chan@bindo.com",
+      "jason.ngan@bindo.com",
+      "levey.zhu@bindo.com"
+    ]
+  },
+  {
+    "email": "backend.team@bindo.com",
+    "name": "Backend Team",
+    "type": "Team (domain)",
+    "member": [
+      "feo.chen@bindo.com",
+      "jason.ngan@bindo.com",
+      "jianfeng.li@bindo.com",
+      "key.hu@bindo.com",
+      "miracle.su@bindo.com",
+      "misko.lee@bindo.com"
+    ]
+  },
+  {
+    "email": "barry.xie@bindo.com",
+    "name": "Barry Xie",
+    "type": "Team (Internet)",
+    "member": [
+      "barry.xie@antcosa.com"
+    ]
+  },
+  {
+    "email": "bindo.equipment@bindo.com",
+    "name": "Bindo Equipment",
+    "type": "Team (Internet)",
+    "member": [
+      "irene.chan@bindo.com",
+      "jason.ngan@bindo.com"
+    ]
+  },
+  {
+    "email": "bing@bindo.com",
+    "name": "Bing",
+    "type": "Team (Internet)",
+    "member": [
+      "jason.ngan@bindo.com"
+    ]
+  },
+  {
+    "email": "biz.dev.ap@bindo.com",
+    "name": "Biz Dev AP",
+    "type": "Team (Internet)",
+    "member": [
+      "irene.chan@bindo.com",
+      "jason.ngan@bindo.com"
+    ]
+  },
+  {
+    "email": "biz.dev@bindo.com",
+    "name": "biz.dev",
+    "type": "Custom",
+    "member": [
+      "irene.chan@bindo.com",
+      "jason.ngan@bindo.com"
+    ]
+  },
+  {
+    "email": "boarding@bindo.com",
+    "name": "Boarding",
+    "type": "Team (Internet)",
+    "member": [
+      "irene.chan@bindo.com",
+      "jason.ngan@bindo.com"
+    ]
+  },
+  {
+    "email": "braintreehk@bindo.com",
+    "name": "braintreehk",
+    "type": "Team (domain)",
+    "member": [
+      "jason.ngan@bindo.com"
+    ]
+  },
+  {
+    "email": "business@bindo.com",
+    "name": "Bindo Business",
+    "type": "Team (Internet)",
+    "member": [
+      "jason.ngan@bindolabs.com"
+    ]
+  },
+  {
+    "email": "campaign-craigslist@bindo.com",
+    "name": "campaign-craigslist",
+    "type": "Team (Internet)",
+    "member": [
+      "irene.chan@bindo.com",
+      "jason.ngan@bindo.com"
+    ]
+  },
+  {
+    "email": "cara.lee@bindo.com",
+    "name": "Cara Lee",
+    "type": "Custom",
+    "member": [
+      "cara.lee@antcosa.com",
+      "cara.lee@bindo.co"
+    ]
+  },
+  {
+    "email": "careers@bindo.com",
+    "name": "Bindo Careers",
+    "type": "Team (Internet)",
+    "member": [
+      "alison.ngan@bindo.com",
+      "femia.yan@bindo.com",
+      "irene.chan@bindo.com",
+      "jason.ngan@bindo.com",
+      "wendy.fong@bindo.com"
+    ]
+  },
+  {
+    "email": "catalog@bindo.com",
+    "name": "catalog",
+    "type": "Team (Internet)",
+    "member": [
+      "irene.chan@bindo.com",
+      "jason.ngan@bindo.com"
+    ]
+  },
+  {
+    "email": "cc_decryptor.subscribers@bindo.com",
+    "name": "cc_decryptor.subscribers@bindo.com",
+    "type": "Team (Internet)",
+    "member": [
+      "jason.ngan@bindo.com"
+    ]
+  },
+  {
+    "email": "cc_transaction.subscribers@bindo.com",
+    "name": "cc_transaction.subscribers@bindo.com",
+    "type": "Team (Internet)",
+    "member": [
+      "irene.chan@bindo.com",
+      "jason.ngan@bindo.com"
+    ]
+  },
+  {
+    "email": "chargeback.subscribers@bindo.com",
+    "name": "Chargeback Subscribers",
+    "type": "Team (Internet)",
+    "member": [
+      "ach.subscribers@bindo.com"
+    ]
+  },
+  {
+    "email": "chef@bindo.com",
+    "name": "chef",
+    "type": "Team (Internet)",
+    "member": [
+      "irene.chan@bindo.com",
+      "jason.ngan@bindo.com"
+    ]
+  },
+  {
+    "email": "china@bindo.com",
+    "name": "china",
+    "type": "Team (Internet)",
+    "member": [
+      "jason.ngan@bindo.com"
+    ]
+  },
+  {
+    "email": "ci.ios@bindo.com",
+    "name": "CI iOS",
+    "type": "Team (Internet)",
+    "member": [
+      "jason.ngan@bindo.com",
+      "levey.zhu@bindo.com"
+    ]
+  },
+  {
+    "email": "ci.web@bindo.com",
+    "name": "CI Web",
+    "type": "Team (Internet)",
+    "member": [
+      "irene.chan@bindo.com",
+      "jason.ngan@bindo.com"
+    ]
+  },
+  {
+    "email": "ck.kan@bindo.com",
+    "name": "CK Kan",
+    "type": "Custom",
+    "member": [
+      "ck.kan@antcosa.com",
+      "ck.kan@bindo.co"
+    ]
+  },
+  {
+    "email": "clarence.ng@bindo.com",
+    "name": "Clarence Ng",
+    "type": "Custom",
+    "member": [
+      "clarence.ng@antcosa.com"
+    ]
+  },
+  {
+    "email": "cloudtrax@bindo.com",
+    "name": "Cloudtrax Team",
+    "type": "Team (Internet)",
+    "member": [
+      "jason.ngan@bindo.com"
+    ]
+  },
+  {
+    "email": "codeship@bindo.com",
+    "name": "codeship",
+    "type": "Team (Internet)",
+    "member": [
+      "jason.ngan@bindo.com"
+    ]
+  },
+  {
+    "email": "colin.lin@bindo.com",
+    "name": "Colin Lin",
+    "type": "Team (Internet)",
+    "member": [
+      "colin.lin@bindolabs.com"
+    ]
+  },
+  {
+    "email": "creditcard.chargeback@bindo.com",
+    "name": "Creditcard Chargeback",
+    "type": "Team (Internet)",
+    "member": [
+      "irene.chan@bindo.com",
+      "jason.ngan@bindo.com"
+    ]
+  },
+  {
+    "email": "critical.support@bindo.com",
+    "name": "Critical Support Issue",
+    "type": "Custom",
+    "member": [
+      "irene.chan@bindo.com",
+      "wilson.tam@bindo.com"
+    ]
+  },
+  {
+    "email": "cs.team.hk@bindo.com",
+    "name": "Client Services Team HK",
+    "type": "Team (Internet)",
+    "member": [
+      "irene.chan@bindo.com"
+    ]
+  },
+  {
+    "email": "daily.report.integrity.check.subscribers@bindo.com",
+    "name": "Daily report subscribers- data integrity check",
+    "type": "Team (Internet)",
+    "member": [
+      "backend.team@bindo.com",
+      "irene.chan@bindo.com",
+      "jason.ngan@bindo.com"
+    ]
+  },
+  {
+    "email": "dale.zhang@bindo.com",
+    "name": "Dale Zhang",
+    "type": "Team (Internet)",
+    "member": [
+      "dale.zhang@antcosa.com"
+    ]
+  },
+  {
+    "email": "damon.tang@bindo.com",
+    "name": "Damon Tang",
+    "type": "Custom",
+    "member": [
+      "damon.tang@antcosa.com"
+    ]
+  },
+  {
+    "email": "data.import@bindo.com",
+    "name": "data.import",
+    "type": "Team (Internet)",
+    "member": [
+      "irene.chan@bindo.com"
+    ]
+  },
+  {
+    "email": "data.team@bindo.com",
+    "name": "Data Team",
+    "type": "Team (Internet)",
+    "member": [
+      "jason.ngan@bindo.com"
+    ]
+  },
+  {
+    "email": "deep.ng@bindo.com",
+    "name": "Deep Ng",
+    "type": "Team (Internet)",
+    "member": [
+      "deep.ng@antcosa.com"
+    ]
+  },
+  {
+    "email": "dephk@bindo.com",
+    "name": "dephk@bindo.com",
+    "type": "Team (Internet)",
+    "member": [
+      "irene.chan@bindo.com",
+      "jason.ngan@bindo.com"
+    ]
+  },
+  {
+    "email": "design.team@bindo.com",
+    "name": "Design Team",
+    "type": "Team (Internet)",
+    "member": [
+      "irene.chan@bindo.com",
+      "jason.ngan@bindo.com",
+      "lynne.lan@bindo.com"
+    ]
+  },
+  {
+    "email": "dev.apps@bindo.com",
+    "name": "Dev Apps",
+    "type": "Team (Internet)",
+    "member": [
+      "irene.chan@bindo.com",
+      "jason.ngan@bindo.com"
+    ]
+  },
+  {
+    "email": "dev.finance@bindo.com",
+    "name": "Dev finance",
+    "type": "Custom",
+    "member": [
+      "irene.chan@bindo.com",
+      "jason.ngan@bindo.com"
+    ]
+  },
+  {
+    "email": "dev.team@bindo.com",
+    "name": "Dev Team",
+    "type": "Custom",
+    "member": [
+      "backend.team@bindo.com",
+      "frontend.team@bindo.com",
+      "ios.dev@bindo.com",
+      "irene.chan@bindo.com",
+      "jason.ngan@bindo.com",
+      "QA@bindo.com"
+    ]
+  },
+  {
+    "email": "dev.tw@bindo.com",
+    "name": "TW Dev Team",
+    "type": "Team (Internet)",
+    "member": [
+      "jason.ngan@bindo.com"
+    ]
+  },
+  {
+    "email": "developers@bindo.com",
+    "name": "Developers",
+    "type": "Team (Internet)",
+    "member": [
+      "jason.ngan@bindo.com"
+    ]
+  },
+  {
+    "email": "devops@bindo.com",
+    "name": "devops",
+    "type": "Team (Internet)",
+    "member": [
+      "feo.chen@bindo.com",
+      "jason.ngan@bindo.com",
+      "miracle.su@bindo.com",
+      "misko.lee@bindo.com"
+    ]
+  },
+  {
+    "email": "digitalocean@bindo.com",
+    "name": "digitalocean",
+    "type": "Team (Internet)",
+    "member": [
+      "feo.chen@bindo.com",
+      "jason.ngan@bindo.com",
+      "misko.lee@bindo.com"
+    ]
+  },
+  {
+    "email": "dns-admin@bindo.com",
+    "name": "dns-admin",
+    "type": "Team (Internet)",
+    "member": [
+      "feo.chen@bindo.com",
+      "irene.chan@bindo.com",
+      "jason.ngan@bindo.com",
+      "miracle.su@bindo.com",
+      "misko.lee@bindo.com"
+    ]
+  },
+  {
+    "email": "dns.cn@bindo.com",
+    "name": "dns.cn@bindo.com",
+    "type": "Team (Internet)",
+    "member": [
+      "feo.chen@bindo.com",
+      "jason.ngan@bindo.com",
+      "levey.zhu@bindo.com",
+      "misko.lee@bindo.com"
+    ]
+  },
+  {
+    "email": "dockyard.project@bindo.com",
+    "name": "Dockyard Project",
+    "type": "Custom",
+    "member": [
+      "alfred.wong@bindo.com",
+      "alison.ngan@bindo.com",
+      "angel.lai@bindo.com",
+      "florance.ng@antcosa.com",
+      "irene.chan@bindo.com",
+      "ken.mui@antcosa.com",
+      "levey.zhu@bindo.com",
+      "miracle.su@antcosa.com",
+      "stephen.ng@antcosa.com"
+    ]
+  },
+  {
+    "email": "dockyard_hk_notification@bindo.com",
+    "name": "Dockyard HK Notification",
+    "type": "Custom",
+    "member": [
+      "alison.ngan@bindo.com",
+      "Barry.Cohen@shangri-la.com",
+      "it.khhk@thekerryhotels.com",
+      "jason.ngan@bindo.com",
+      "ken.mui@antcosa.com",
+      "Lino.Rodrigues@shangri-la.com",
+      "revan.valleramos@dockyardhk.com",
+      "simon.yu@shangri-la.com"
+    ]
+  },
+  {
+    "email": "dominik.heim@bindo.com",
+    "name": "Dominik Heim",
+    "type": "Team (Internet)",
+    "member": [
+      "dan.merns@bindo.com",
+      "dominik.heim@antcosa.com"
+    ]
+  },
+  {
+    "email": "doug.pierce@bindo.com",
+    "name": "Doug Pierce | Bindo",
+    "type": "Team (Internet)",
+    "member": [
+      "doug.pierce@bindolabs.com"
+    ]
+  },
+  {
+    "email": "emaf.subscribers@bindo.com",
+    "name": "EMAF Subscribers",
+    "type": "Team (Internet)",
+    "member": [
+      "dan.merns@bindo.com",
+      "irene.chan@bindo.com",
+      "jason.ngan@bindo.com"
+    ]
+  },
+  {
+    "email": "emd.subscribers@bindo.com",
+    "name": "emd.subscribers@bindo.com",
+    "type": "Team (Internet)",
+    "member": [
+      "ach.subscribers@bindo.com"
+    ]
+  },
+  {
+    "email": "error.kiosk@bindo.com",
+    "name": "Error Kiosk",
+    "type": "Team (Internet)",
+    "member": [
+      "alison.ngan@bindo.com",
+      "evan.zhou@bindo.com",
+      "irene.chan@bindo.com",
+      "jason.ngan@bindo.com",
+      "levey.zhu@bindo.com",
+      "ton.tao@bindo.com"
+    ]
+  },
+  {
+    "email": "everyone@bindo.com",
+    "name": "Everyone at Bindo",
+    "type": "Team (Internet)",
+    "member": [
+      "irene.chan@bindo.com",
+      "jason.ngan@bindo.com"
+    ]
+  },
+  {
+    "email": "exception.subscribers@bindo.com",
+    "name": "Exception Subscribers",
+    "type": "Team (Internet)",
+    "member": [
+      "irene.chan@bindo.com",
+      "jason.ngan@bindo.com"
+    ]
+  },
+  {
+    "email": "expenses@bindo.com",
+    "name": "Expenses",
+    "type": "Team (Internet)",
+    "member": [
+      "irene.chan@bindo.com"
+    ]
+  },
+  {
+    "email": "external_timepayment_submission@bindo.com",
+    "name": "EXTERNAL_ TIMEPAYMENT_SUBMISSION",
+    "type": "Team (domain)",
+    "member": [
+      "documents@timepaymentcorp.com",
+      "Ian.Mayer@timepaymentcorp.com",
+      "timepayment@bindo.com",
+      "vendorrelations@timepaymentcorp.com"
+    ]
+  },
+  {
+    "email": "fax.subscriber@bindo.com",
+    "name": "Fax subscriber",
+    "type": "Team (Internet)",
+    "member": [
+      "jason.ngan@bindo.com"
+    ]
+  },
+  {
+    "email": "feedback@bindo.com",
+    "name": "Feedback",
+    "type": "Team (Internet)",
+    "member": [
+      "irene.chan@bindo.com",
+      "jason.ngan@bindo.com"
+    ]
+  },
+  {
+    "email": "femi.alao@bindo.com",
+    "name": "femi.alao",
+    "type": "Public (domain)",
+    "member": [
+      "dan.merns@bindo.com"
+    ]
+  },
+  {
+    "email": "feo.chen@bindo.com",
+    "name": "Feo Chen",
+    "type": "Team (Internet)",
+    "member": [
+      "feo.chen@antcosa.com"
+    ]
+  },
+  {
+    "email": "finance@bindo.com",
+    "name": "Finance",
+    "type": "Team (Internet)",
+    "member": [
+      "alison.ngan@bindo.com",
+      "femia.yan@bindo.com",
+      "irene.chan@bindo.com",
+      "jason.ngan@bindo.com",
+      "wendy.fong@bindo.com"
+    ]
+  },
+  {
+    "email": "florence.ng@bindo.com",
+    "name": "Florence Ng",
+    "type": "Team (Internet)",
+    "member": [
+      "florence.ng@antcosa.com",
+      "florence.ng@bindo.co"
+    ]
+  },
+  {
+    "email": "flyvpn10@bindo.com",
+    "name": "flyvpn10",
+    "type": "Team (Internet)",
+    "member": [
+      "irene.chan@bindo.com"
+    ]
+  },
+  {
+    "email": "flyvpn6@bindo.com",
+    "name": "flyvpn6",
+    "type": "Team (Internet)",
+    "member": [
+      "jason.ngan@bindo.com"
+    ]
+  },
+  {
+    "email": "founders@bindo.com",
+    "name": "Founders",
+    "type": "Team (Internet)",
+    "member": [
+      "irene.chan@bindo.com",
+      "jason.ngan@bindo.com"
+    ]
+  },
+  {
+    "email": "geocoding@bindo.com",
+    "name": "geocoding@bindo.com",
+    "type": "Team (Internet)",
+    "member": [
+      "irene.chan@bindo.com",
+      "jason.ngan@bindo.com"
+    ]
+  },
+  {
+    "email": "giftcards-hk@bindo.com",
+    "name": "Bindo Giftcards (HK)",
+    "type": "Team (Internet)",
+    "member": [
+      "irene.chan@bindo.com"
+    ]
+  },
+  {
+    "email": "giftcards-us@bindo.com",
+    "name": "Bindo Giftcards (US)",
+    "type": "Team (Internet)",
+    "member": [
+      "dan.merns@bindo.com",
+      "irene.chan@bindo.com"
+    ]
+  },
+  {
+    "email": "growth.team@bindo.com",
+    "name": "Growth Team",
+    "type": "Team (Internet)",
+    "member": [
+      "irene.chan@bindo.com",
+      "jason.ngan@bindo.com"
+    ]
+  },
+  {
+    "email": "haidi.liu@bindo.com",
+    "name": "Haidi Liu | Bindo",
+    "type": "Custom",
+    "member": [
+      "haidi.liu@antcosa.com"
+    ]
+  },
+  {
+    "email": "hannah.chan@bindo.com",
+    "name": "Hannah Chan",
+    "type": "Custom",
+    "member": [
+      "hannah.chan@antcosa.com",
+      "hannah.chan@bindo.co"
+    ]
+  },
+  {
+    "email": "hardware-orders@bindo.com",
+    "name": "Bindo Hardware Orders",
+    "type": "Team (Internet)",
+    "member": [
+      "dan.merns@bindo.com",
+      "irene.chan@bindo.com",
+      "jason.ngan@bindo.com",
+      "michael.hwang@bindo.com"
+    ]
+  },
+  {
+    "email": "hello@bindo.com",
+    "name": "Hello",
+    "type": "Team (Internet)",
+    "member": [
+      "dan.merns@bindo.com",
+      "irene.chan@bindo.com",
+      "jason.ngan@bindo.com"
+    ]
+  },
+  {
+    "email": "hk.distributor@bindo.com",
+    "name": "hk.distributor@bindo.com",
+    "type": "Team (Internet)",
+    "member": [
+      "ivan.so@zizsoft.com",
+      "jason.ngan@bindo.com"
+    ]
+  },
+  {
+    "email": "hksp@bindo.com",
+    "name": "hksp",
+    "type": "Custom",
+    "member": [
+      "irene.chan@bindo.com",
+      "jason.ngan@bindo.com"
+    ]
+  },
+  {
+    "email": "hockeyapp@bindo.com",
+    "name": "Hockeyapp",
+    "type": "Team (Internet)",
+    "member": [
+      "irene.chan@bindo.com",
+      "support@bindo.com"
+    ]
+  },
+  {
+    "email": "hong.cheng@bindo.com",
+    "name": "Hong Cheng | Bindo",
+    "type": "Team (Internet)",
+    "member": [
+      "hong.cheng@antcosa.com"
+    ]
+  },
+  {
+    "email": "horus.wu@bindo.com",
+    "name": "Horus Wu",
+    "type": "Custom",
+    "member": [
+      "horus.wu@antcosa.com"
+    ]
+  },
+  {
+    "email": "hostmaster@bindo.com",
+    "name": "hostmaster@bindo.com",
+    "type": "Team (Internet)",
+    "member": [
+      "jason.ngan@bindo.com"
+    ]
+  },
+  {
+    "email": "hoyin.chau@bindo.com",
+    "name": "Ho Yin Chau | Bindo",
+    "type": "Team (Internet)",
+    "member": [
+      "hoyin.chau@bindolabs.com"
+    ]
+  },
+  {
+    "email": "hr@bindo.com",
+    "name": "HR @ Bindo",
+    "type": "Team (Internet)",
+    "member": [
+      "alison.ngan@bindo.com",
+      "dan.merns@bindo.com",
+      "femia.yan@bindo.com",
+      "irene.chan@bindo.com",
+      "jason.ngan@bindo.com",
+      "mandy.luk@bindo.com"
+    ]
+  },
+  {
+    "email": "htng@bindo.com",
+    "name": "HTNG",
+    "type": "Team (Internet)",
+    "member": [
+      "alison.ngan@bindo.com"
+    ]
+  },
+  {
+    "email": "hubert.au@bindo.com",
+    "name": "Hubert Au",
+    "type": "Custom",
+    "member": [
+      "hubert.au@antcosa.com",
+      "hubert.au@bindo.co"
+    ]
+  },
+  {
+    "email": "hubspot@bindo.com",
+    "name": "Hubspot",
+    "type": "Team (Internet)",
+    "member": [
+      "jason.ngan@bindo.com"
+    ]
+  },
+  {
+    "email": "inbound.leads@bindo.com",
+    "name": "Inbound Leads",
+    "type": "Custom",
+    "member": [
+      "femi.alao.temp@bindo.com"
+    ]
+  },
+  {
+    "email": "intercom@bindo.com",
+    "name": "Intercom",
+    "type": "Team (Internet)",
+    "member": [
+      "irene.chan@bindo.com",
+      "jason.ngan@bindo.com"
+    ]
+  },
+  {
+    "email": "interested@bindo.com",
+    "name": "Interested (Sales Leads)",
+    "type": "Team (Internet)",
+    "member": [
+      "jason.ngan@bindo.com"
+    ]
+  },
+  {
+    "email": "internal.monitor@bindo.com",
+    "name": "Internal Monitor",
+    "type": "Custom",
+    "member": [
+      "feo.chen@antcosa.com",
+      "miracle.su@antcosa.com",
+      "misko.lee@bindo.com"
+    ]
+  },
+  {
+    "email": "internal_log_kerry_hotel_dockyard@bindo.com",
+    "name": "Internal Log Kerry Hotel Dockyard",
+    "type": "Team (Internet)",
+    "member": [
+      "alison.ngan@bindo.com",
+      "irene.chan@bindo.com",
+      "ken.mui@bindo.com"
+    ]
+  },
+  {
+    "email": "ios.dev@bindo.com",
+    "name": "iOS Dev",
+    "type": "Team (Internet)",
+    "member": [
+      "irene.chan@bindo.com",
+      "jason.ngan@bindo.com",
+      "levey.zhu@bindo.com"
+    ]
+  },
+  {
+    "email": "ios.tester@bindo.com",
+    "name": "iOS Tester",
+    "type": "Custom",
+    "member": [
+      "jason.ngan@bindo.com"
+    ]
+  },
+  {
+    "email": "ipc_merchant_sync@bindo.com",
+    "name": "ipc_merchant_sync@bindo.com",
+    "type": "Team (Internet)",
+    "member": [
+      "irene.chan@bindo.com",
+      "jason.ngan@bindo.com"
+    ]
+  },
+  {
+    "email": "irene.poon@bindo.com",
+    "name": "Irene Poon",
+    "type": "Custom",
+    "member": [
+      "irene.poon@antcosa.com"
+    ]
+  },
+  {
+    "email": "issac.yan@bindo.com",
+    "name": "Issac Yan",
+    "type": "Custom",
+    "member": [
+      "issac.yan@antcosa.com",
+      "issac.yan@bindo.co"
+    ]
+  },
+  {
+    "email": "it.team@bindo.com",
+    "name": "IT Team",
+    "type": "Team (Internet)",
+    "member": [
+      "irene.chan@bindo.com",
+      "jason.ngan@bindo.com"
+    ]
+  },
+  {
+    "email": "jacky.chen@bindo.com",
+    "name": "Jacky Chen",
+    "type": "Custom",
+    "member": [
+      "jacky.chen@antcosa.com"
+    ]
+  },
+  {
+    "email": "jamie.cohen@bindo.com",
+    "name": "Jamie Cohen | Bindo",
+    "type": "Team (Internet)",
+    "member": [
+      "jamie.cohen@antcosa.com"
+    ]
+  },
+  {
+    "email": "jasmine.zhao@bindo.com",
+    "name": "Jasmine Zhao",
+    "type": "Team (Internet)",
+    "member": [
+      "jasmine.zhao@antcosa.com"
+    ]
+  },
+  {
+    "email": "jason-linkedin@bindo.com",
+    "name": "Jason",
+    "type": "Team (Internet)",
+    "member": [
+      "jason.ngan@bindo.com"
+    ]
+  },
+  {
+    "email": "jason.wu@bindo.com",
+    "name": "Jason Wu",
+    "type": "Custom",
+    "member": [
+      "jason.wu@bindo.co"
+    ]
+  },
+  {
+    "email": "jeffrey.ip@bindo.com",
+    "name": "Jeffrey Ip",
+    "type": "Custom",
+    "member": [
+      "jeffrey.ip@antcosa.com"
+    ]
+  },
+  {
+    "email": "jessie.chong@bindo.com",
+    "name": "Jessie Chong",
+    "type": "Custom",
+    "member": [
+      "jessie.chong@antcosa.com",
+      "jessie.chong@bindo.co"
+    ]
+  },
+  {
+    "email": "jianfeng.li@bindo.com",
+    "name": "Jianfeng Li",
+    "type": "Custom",
+    "member": [
+      "jianfeng.li@antcosa.com"
+    ]
+  },
+  {
+    "email": "jimmy.ip@bindo.com",
+    "name": "Jimmy Ip | Bindo",
+    "type": "Team (Internet)",
+    "member": [
+      "jimmy.ip@bindolabs.com"
+    ]
+  },
+  {
+    "email": "jobs.backend@bindo.com",
+    "name": "Backend Jobs",
+    "type": "Team (Internet)",
+    "member": [
+      "alison.ngan@bindo.com"
+    ]
+  },
+  {
+    "email": "jobs.frontend@bindo.com",
+    "name": "Jobs Frontend",
+    "type": "Team (Internet)",
+    "member": [
+      "alison.ngan@bindo.com"
+    ]
+  },
+  {
+    "email": "jobs.ios@bindo.com",
+    "name": "iOS Jobs",
+    "type": "Team (Internet)",
+    "member": [
+      "alison.ngan@bindo.com",
+      "levey.zhu@bindo.com"
+    ]
+  },
+  {
+    "email": "jocelyn.lu@bindo.com",
+    "name": "Jocelyn Lu | Bindo",
+    "type": "Team (Internet)",
+    "member": [
+      "jocelyn.lu@antcosa.com"
+    ]
+  },
+  {
+    "email": "join@bindo.com",
+    "name": "Join",
+    "type": "Team (Internet)",
+    "member": [
+      "alison.ngan@bindo.com",
+      "irene.chan@bindo.com",
+      "jason.ngan@bindo.com"
+    ]
+  },
+  {
+    "email": "ken.mui@bindo.com",
+    "name": "Ken Mui | Bindo",
+    "type": "Team (Internet)",
+    "member": [
+      "ken.mui@antcosa.com",
+      "ken.mui@bindo.co"
+    ]
+  },
+  {
+    "email": "key.hu@bindo.com",
+    "name": "Key Hu | Bindo",
+    "type": "Team (Internet)",
+    "member": [
+      "key.hu@antcosa.com"
+    ]
+  },
+  {
+    "email": "kiosk.team@bindo.com",
+    "name": "Kiosk.team",
+    "type": "Team (Internet)",
+    "member": [
+      "alison.ngan@bindo.com",
+      "irene.chan@bindo.com"
+    ]
+  },
+  {
+    "email": "kon.kostousov@bindo.com",
+    "name": "Kon Kostousov",
+    "type": "Custom",
+    "member": [
+      "kon.kostousov@antcosa.com"
+    ]
+  },
+  {
+    "email": "languages@bindo.com",
+    "name": "Languages",
+    "type": "Team (Internet)",
+    "member": [
+      "dan.merns@bindo.com",
+      "irene.chan@bindo.com",
+      "levey.zhu@bindo.com"
+    ]
+  },
+  {
+    "email": "leads-inbound@bindo.com",
+    "name": "leads-inbound@bindo.com",
+    "type": "Team (Internet)",
+    "member": [
+      "jason.ngan@bindo.com"
+    ]
+  },
+  {
+    "email": "leads@bindo.com",
+    "name": "Leads",
+    "type": "Team (Internet)",
+    "member": [
+      "dan.merns@bindo.com",
+      "jason.ngan@bindo.com",
+      "jessie.chong@bindo.com"
+    ]
+  },
+  {
+    "email": "leads_businesscom@bindo.com",
+    "name": "leads_businesscom@bindo.com",
+    "type": "Team (Internet)",
+    "member": [
+      "jason.ngan@bindo.com"
+    ]
+  },
+  {
+    "email": "leasing@bindo.com",
+    "name": "Leasing",
+    "type": "Team (Internet)",
+    "member": [
+      "jason.ngan@bindo.com",
+      "joming.au@bindo.com"
+    ]
+  },
+  {
+    "email": "log_kerry_hotel_dockyard@bindo.com",
+    "name": "log_kerry_hotel_dockyard",
+    "type": "Team (Internet)",
+    "member": [
+      "alison.ngan@bindo.com",
+      "chengsoon.ho@shangri-la.com",
+      "francis_lai@infrasys-intl.com",
+      "jack_li@infrasys-intl.com",
+      "jason.ngan@bindo.com",
+      "kam.ko@thekerryhotels.com",
+      "ken.mui@bindo.com",
+      "Lino.Rodrigues@shangri-la.com",
+      "revan.valleramos@dockyardhk.com",
+      "serman_ma@infrasys-intl.com"
+    ]
+  },
+  {
+    "email": "louis.chong@bindo.com",
+    "name": "Louis Chong",
+    "type": "Custom",
+    "member": [
+      "louis.chong@antcosa.com"
+    ]
+  },
+  {
+    "email": "lulu.zhu@bindo.com",
+    "name": "Lulu Zhu",
+    "type": "Custom",
+    "member": [
+      "lulu.zhu@antcosa.com"
+    ]
+  },
+  {
+    "email": "mailgun@bindo.com",
+    "name": "mailgun@bindo.com",
+    "type": "Team (Internet)",
+    "member": [
+      "feo.chen@bindo.com",
+      "irene.chan@bindo.com",
+      "jason.ngan@bindo.com",
+      "misko.lee@bindo.com"
+    ]
+  },
+  {
+    "email": "market@bindo.com",
+    "name": "Bindo Market",
+    "type": "Team (Internet)",
+    "member": [
+      "irene.chan@bindo.com",
+      "jason.ngan@bindo.com"
+    ]
+  },
+  {
+    "email": "marketing.team@bindo.com",
+    "name": "Marketing Team",
+    "type": "Team (Internet)",
+    "member": [
+      "dan.merns@bindo.com",
+      "irene.chan@bindo.com",
+      "jason.ngan@bindo.com"
+    ]
+  },
+  {
+    "email": "marketing@bindo.com",
+    "name": "Bindo Marketing",
+    "type": "Team (Internet)",
+    "member": [
+      "marketing.team@bindo.com"
+    ]
+  },
+  {
+    "email": "maxims.dev.team@bindo.com",
+    "name": "maxims.dev.team",
+    "type": "Team (Internet)",
+    "member": [
+      "alison.ngan@bindo.com",
+      "irene.chan@bindo.com",
+      "ken.mui@bindo.com"
+    ]
+  },
+  {
+    "email": "mdm@bindo.com",
+    "name": "MDM",
+    "type": "Team (Internet)",
+    "member": [
+      "irene.chan@bindo.com",
+      "jason.ngan@bindo.com"
+    ]
+  },
+  {
+    "email": "meggie.rong@bindo.com",
+    "name": "Meggie Rong (moved)",
+    "type": "Custom",
+    "member": [
+      "meggie.rong@antcosa.com",
+      "meggie.rong@bindo.co"
+    ]
+  },
+  {
+    "email": "merchant.boarding@bindo.com",
+    "name": "Merchant.boarding",
+    "type": "Team (Internet)",
+    "member": [
+      "jason.ngan@bindo.com"
+    ]
+  },
+  {
+    "email": "merchant.onboarding@bindo.com",
+    "name": "Merchant Onboarding",
+    "type": "Custom",
+    "member": [
+      "alison.ngan@bindo.com",
+      "jason.ngan@bindo.com",
+      "jessie.chong@antcosa.com"
+    ]
+  },
+  {
+    "email": "messagebird@bindo.com",
+    "name": "messagebird",
+    "type": "Public (domain)",
+    "member": [
+      "irene.chan@bindo.com",
+      "jason.ngan@bindo.com",
+      "misko.lee@bindo.com"
+    ]
+  },
+  {
+    "email": "migtest@bindo.com",
+    "name": "Migration Test",
+    "type": "Team (Internet)",
+    "member": [
+      "migtest@antcosa.com"
+    ]
+  },
+  {
+    "email": "minicooper@bindo.com",
+    "name": "Bindo Mini Cooper",
+    "type": "Team (Internet)",
+    "member": [
+      "irene.chan@bindo.com",
+      "jason.ngan@bindo.com"
+    ]
+  },
+  {
+    "email": "miracle.su@bindo.com",
+    "name": "Miracle Su | Bindo",
+    "type": "Team (Internet)",
+    "member": [
+      "miracle.su@antcosa.com"
+    ]
+  },
+  {
+    "email": "molly.li@bindo.com",
+    "name": "Molly Li",
+    "type": "Team (Internet)",
+    "member": [
+      "molly.li@antcosa.com"
+    ]
+  },
+  {
+    "email": "newrelic@bindo.com",
+    "name": "newrelic",
+    "type": "Team (Internet)",
+    "member": [
+      "jason.ngan@bindo.com"
+    ]
+  },
+  {
+    "email": "nyc.team@bindo.com",
+    "name": "NYC Team",
+    "type": "Team (domain)",
+    "member": [
+      "dan.merns@bindo.com",
+      "femi.alao.temp@bindo.com",
+      "michael.hwang@bindo.com"
+    ]
+  },
+  {
+    "email": "nytechday@bindo.com",
+    "name": "NY Tech Day",
+    "type": "Team (Internet)",
+    "member": [
+      "irene.chan@bindo.com",
+      "jason.ngan@bindo.com"
+    ]
+  },
+  {
+    "email": "octopus.support@bindo.com",
+    "name": "octopus.support@bindo.com",
+    "type": "Custom",
+    "member": [
+      "inbound@bindolabs.zendesk.com"
+    ]
+  },
+  {
+    "email": "odesk@bindo.com",
+    "name": "odesk",
+    "type": "Team (Internet)",
+    "member": [
+      "irene.chan@bindo.com",
+      "jason.ngan@bindo.com"
+    ]
+  },
+  {
+    "email": "omar.hassan@bindo.com",
+    "name": "Omar Hassan",
+    "type": "Custom",
+    "member": [
+      "omar.hassan@antcosa.com"
+    ]
+  },
+  {
+    "email": "optimizely@bindo.com",
+    "name": "Optimizely",
+    "type": "Team (Internet)",
+    "member": [
+      "jason.ngan@bindo.com"
+    ]
+  },
+  {
+    "email": "order.notification@bindo.com",
+    "name": "Order Notification",
+    "type": "Custom",
+    "member": [
+      "jason.ngan@bindo.com"
+    ]
+  },
+  {
+    "email": "outage.support.team@bindo.com",
+    "name": "Outage Support Team",
+    "type": "Team (Internet)",
+    "member": [
+      "irene.chan@bindo.com",
+      "jason.ngan@bindo.com",
+      "levey.zhu@bindo.com"
+    ]
+  },
+  {
+    "email": "papertrailapp@bindo.com",
+    "name": "papertrailapp",
+    "type": "Team (Internet)",
+    "member": [
+      "irene.chan@bindo.com",
+      "jason.ngan@bindo.com",
+      "levey.zhu@bindo.com"
+    ]
+  },
+  {
+    "email": "payment.team@bindo.com",
+    "name": "Payment Team",
+    "type": "Team (Internet)",
+    "member": [
+      "alison.ngan@bindo.com",
+      "feo.chen@bindo.com",
+      "frank.ng@bindo.com",
+      "irene.chan@bindo.com",
+      "jason.ngan@bindo.com",
+      "jessie.chong@bindo.com",
+      "key.hu@bindo.com",
+      "misko.lee@bindo.com",
+      "qiang.fang@bindo.com",
+      "sandy.jiang@bindo.com",
+      "shaw.chen@bindo.com",
+      "soul.wang@bindo.com",
+      "yori.zhao@bindo.com"
+    ]
+  },
+  {
+    "email": "payment@bindo.com",
+    "name": "payment@bindo.com",
+    "type": "Team (Internet)",
+    "member": [
+      "jason.ngan@bindo.com"
+    ]
+  },
+  {
+    "email": "peter.chan@bindo.com",
+    "name": "Peter Chan",
+    "type": "Custom",
+    "member": [
+      "peter.chan@antcosa.com"
+    ]
+  },
+  {
+    "email": "po@bindo.com",
+    "name": "Purchase Orders",
+    "type": "Team (Internet)",
+    "member": [
+      "irene.chan@bindo.com",
+      "jason.ngan@bindo.com"
+    ]
+  },
+  {
+    "email": "pony.cheng@bindo.com",
+    "name": "Pony Cheng",
+    "type": "Custom",
+    "member": [
+      "pony.cheng@antcosa.com"
+    ]
+  },
+  {
+    "email": "pr.team@bindo.com",
+    "name": "PR Team",
+    "type": "Team (Internet)",
+    "member": [
+      "irene.chan@bindo.com",
+      "jason.ngan@bindo.com"
+    ]
+  },
+  {
+    "email": "pr@bindo.com",
+    "name": "Bindo PR",
+    "type": "Team (Internet)",
+    "member": [
+      "irene.chan@bindo.com",
+      "jason.ngan@bindo.com"
+    ]
+  },
+  {
+    "email": "preferredmerchantservices@bindo.com",
+    "name": "Preferred Merchant Services",
+    "type": "Team (Internet)",
+    "member": [
+      "ad@preferredmerchantservices.netan@preferredmerchantservices.netdf@preferredmerchantservices.netds@preferredmerchantservices.netif@preferredmerchantservices.netpg@preferredmerchantservices.netpz@preferredmerchantservices.netsp@preferredmerchantservices.net"
+    ]
+  },
+  {
+    "email": "procurement@bindo.com",
+    "name": "Procurement",
+    "type": "Team (Internet)",
+    "member": [
+      "femia.yan@bindo.com",
+      "irene.chan@bindo.com",
+      "jason.ngan@bindo.com"
+    ]
+  },
+  {
+    "email": "product.team@bindo.com",
+    "name": "Product",
+    "type": "Team (Internet)",
+    "member": [
+      "irene.chan@bindo.com",
+      "jason.ngan@bindo.com"
+    ]
+  },
+  {
+    "email": "production.exception@bindo.com",
+    "name": "Production Exception",
+    "type": "Team (Internet)",
+    "member": [
+      "jason.ngan@bindo.com"
+    ]
+  },
+  {
+    "email": "project-hkaa@bindo.com",
+    "name": "project-hkaa",
+    "type": "Team (Internet)",
+    "member": [
+      "alison.ngan@bindo.com",
+      "angel.lai@bindo.com",
+      "eddie.wong@bindo.com",
+      "eric.ho@bindo.com",
+      "irene.chan@bindo.com",
+      "john.sang@bindo.com",
+      "ken.mui@bindo.com",
+      "shaw.chen@bindo.com",
+      "soul.wang@bindo.com",
+      "steven.chan@bindo.com",
+      "william.chow@bindo.com"
+    ]
+  },
+  {
+    "email": "project-op@bindo.com",
+    "name": "project-op",
+    "type": "Public (domain)",
+    "member": [
+      "alison.ngan@bindo.com",
+      "eddie.wong@bindo.com",
+      "fion.lam@bindo.com",
+      "john.sang@bindo.com",
+      "steven.chan@bindo.com",
+      "william.cheng@bindo.com",
+      "william.chow@bindo.com"
+    ]
+  },
+  {
+    "email": "project-regal@bindo.com",
+    "name": "Project Regal",
+    "type": "Custom",
+    "member": [
+      "alfred.wong@bindo.com",
+      "angel.lai@bindo.com",
+      "florence.ng@bindo.com",
+      "irene.chan@bindo.com",
+      "meggie.rong@bindo.com"
+    ]
+  },
+  {
+    "email": "project-superpark@bindo.com",
+    "name": "project-superpark@bindo.com",
+    "type": "Public (domain)",
+    "member": [
+      "alison.ngan@bindo.com",
+      "eddie.wong@bindo.com",
+      "fion.lam@bindo.com",
+      "francis.lai@bindo.com",
+      "irene.chan@bindo.com",
+      "soul.wang@bindo.com",
+      "steven.chan@bindo.com"
+    ]
+  },
+  {
+    "email": "project-toridoll@bindo.com",
+    "name": "Project Toridoll",
+    "type": "Team (Internet)",
+    "member": [
+      "alison.ngan@bindo.com",
+      "deep.ng@bindo.com",
+      "irene.chan@bindo.com",
+      "jason.mak@bindo.com",
+      "jason.ngan@bindo.com"
+    ]
+  },
+  {
+    "email": "project.gusella@bindo.com",
+    "name": "Internal Project",
+    "type": "Team (Internet)",
+    "member": [
+      "jason.ngan@bindo.com"
+    ]
+  },
+  {
+    "email": "psm@bindo.com",
+    "name": "Perfect Search Media",
+    "type": "Team (Internet)",
+    "member": [
+      "mike.jia.temp@bindolabs.com"
+    ]
+  },
+  {
+    "email": "publicfolder@bindo.com",
+    "name": "publicfolder",
+    "type": "Team (Internet)",
+    "member": [
+      "alison.ngan@bindo.com",
+      "irene.chan@bindo.com",
+      "jason.ngan@bindo.com"
+    ]
+  },
+  {
+    "email": "purav.patel@bindo.com",
+    "name": "purav.patel@bindo.com",
+    "type": "Team (Internet)",
+    "member": [
+      "purav.patel@bindolabs.com"
+    ]
+  },
+  {
+    "email": "purchase.order@bindo.com",
+    "name": "Purchase Order",
+    "type": "Team (Internet)",
+    "member": [
+      "irene.chan@bindo.com",
+      "jason.ngan@bindo.com"
+    ]
+  },
+  {
+    "email": "qa@bindo.com",
+    "name": "QA",
+    "type": "Team (Internet)",
+    "member": [
+      "irene.chan@bindo.com",
+      "levey.zhu@bindo.com",
+      "wilson.tam@bindo.com"
+    ]
+  },
+  {
+    "email": "raiden.wu@bindo.com",
+    "name": "Raiden Wu",
+    "type": "Custom",
+    "member": [
+      "raiden.wu@antcosa.com",
+      "raiden.wu@bindo.co"
+    ]
+  },
+  {
+    "email": "recruiter.boss@bindo.com",
+    "name": "recruiter.boss@bindo.com",
+    "type": "Team (Internet)",
+    "member": [
+      "irene.chan@bindo.com",
+      "jason.ngan@bindo.com",
+      "mandy.luk@bindo.com",
+      "wendy.fong@bindo.com"
+    ]
+  },
+  {
+    "email": "report-batch@bindo.com",
+    "name": "report-batch",
+    "type": "Team (Internet)",
+    "member": [
+      "irene.chan@bindo.com",
+      "jason.ngan@bindo.com"
+    ]
+  },
+  {
+    "email": "reseller@bindo.com",
+    "name": "Reseller",
+    "type": "Team (Internet)",
+    "member": [
+      "dan.merns@bindo.com",
+      "jason.ngan@bindo.com"
+    ]
+  },
+  {
+    "email": "rob.leonard@bindo.com",
+    "name": "Rob Leonard",
+    "type": "Team (Internet)",
+    "member": [
+      "rob.leonard@antcosa.com"
+    ]
+  },
+  {
+    "email": "rollout@bindo.com",
+    "name": "rollout",
+    "type": "Team (Internet)",
+    "member": [
+      "irene.chan@bindo.com",
+      "jason.ngan@bindo.com"
+    ]
+  },
+  {
+    "email": "sale_fee_batch.subscribers@bindo.com",
+    "name": "sale_fee_batch.subscribers@bindo.com",
+    "type": "Team (Internet)",
+    "member": [
+      "ach.subscribers@bindo.com"
+    ]
+  },
+  {
+    "email": "sales.team.leaders.hk@bindo.com",
+    "name": "Sales.team.leaders HK",
+    "type": "Team (Internet)",
+    "member": [
+      "irene.chan@bindo.com",
+      "jason.mak@bindo.com",
+      "steven.chan@bindo.com"
+    ]
+  },
+  {
+    "email": "sales.team@bindo.com",
+    "name": "Sales Team",
+    "type": "Team (domain)",
+    "member": [
+      "dan.merns@bindo.com",
+      "dominik.heim@bindo.com",
+      "femi.alao.temp@bindo.com",
+      "irene.chan@bindo.com",
+      "jason.ngan@bindo.com",
+      "michael.hwang@bindo.com"
+    ]
+  },
+  {
+    "email": "sales.us@bindo.com",
+    "name": "sales.us@bindo.com",
+    "type": "Team (Internet)",
+    "member": [
+      "dan.merns@bindo.com",
+      "femi.alao.temp@bindo.com",
+      "michael.hwang@bindo.com"
+    ]
+  },
+  {
+    "email": "sales@bindo.com",
+    "name": "Bindo Sales",
+    "type": "Team (Internet)",
+    "member": [
+      "jason.ngan@bindo.com"
+    ]
+  },
+  {
+    "email": "salesgenie@bindo.com",
+    "name": "Salesgenie",
+    "type": "Team (Internet)",
+    "member": [
+      "jason.ngan@bindo.com"
+    ]
+  },
+  {
+    "email": "saleshk@bindo.com",
+    "name": "Sales HK",
+    "type": "Team (Internet)",
+    "member": [
+      "alison.ngan@bindo.com",
+      "cass.fok@bindo.com",
+      "eddie.wong@bindo.com",
+      "fion.lam@bindo.com",
+      "irene.chan@bindo.com",
+      "jason.mak@bindo.com",
+      "jason.ngan@bindo.com",
+      "steven.chan@bindo.com",
+      "tom.lin@bindo.com",
+      "vincent.so@bindo.com"
+    ]
+  },
+  {
+    "email": "salessg@bindo.com",
+    "name": "Bindo Sales Singapore",
+    "type": "Team (Internet)",
+    "member": [
+      "jason.ngan@bindo.com"
+    ]
+  },
+  {
+    "email": "sam.kang@bindo.com",
+    "name": "Sam Kang | Bindo",
+    "type": "Team (Internet)",
+    "member": [
+      "sam.kang@antcosa.com"
+    ]
+  },
+  {
+    "email": "sandy.jiang@bindo.com",
+    "name": "Sandy Jiang | Bindo",
+    "type": "Public (domain)",
+    "member": [
+      "sandy.jiang@antcosa.com"
+    ]
+  },
+  {
+    "email": "scoutapp@bindo.com",
+    "name": "Scout App",
+    "type": "Team (Internet)",
+    "member": [
+      "jason.ngan@bindo.com"
+    ]
+  },
+  {
+    "email": "sean.hui@bindo.com",
+    "name": "Sean Hui",
+    "type": "Custom",
+    "member": [
+      "sean.hui@antcosa.com",
+      "sean.hui@bindo.co"
+    ]
+  },
+  {
+    "email": "securitykey.1@bindo.com",
+    "name": "securitykey.1@bindo.com",
+    "type": "Team (Internet)",
+    "member": [
+      "irene.chan@bindo.com",
+      "jason.ngan@bindo.com",
+      "misko.lee@bindo.com"
+    ]
+  },
+  {
+    "email": "securitykey.2@bindo.com",
+    "name": "securitykey.2@bindo.com",
+    "type": "Team (Internet)",
+    "member": [
+      "irene.chan@bindo.com",
+      "jason.ngan@bindo.com",
+      "misko.lee@bindo.com"
+    ]
+  },
+  {
+    "email": "securitykey.3@bindo.com",
+    "name": "securitykey.3@bindo.com",
+    "type": "Team (Internet)",
+    "member": [
+      "irene.chan@bindo.com",
+      "jason.ngan@bindo.com",
+      "misko.lee@bindo.com"
+    ]
+  },
+  {
+    "email": "semrush.reports@bindo.com",
+    "name": "semrush.reports",
+    "type": "Team (Internet)",
+    "member": [
+      "jason.ngan@bindo.com"
+    ]
+  },
+  {
+    "email": "semrush@bindo.com",
+    "name": "Semrush",
+    "type": "Team (Internet)",
+    "member": [
+      "irene.chan@bindo.com",
+      "jason.ngan@bindo.com"
+    ]
+  },
+  {
+    "email": "server.admin@bindo.com",
+    "name": "Server Admin",
+    "type": "Team (Internet)",
+    "member": [
+      "irene.chan@bindo.com",
+      "jason.ngan@bindo.com"
+    ]
+  },
+  {
+    "email": "social.team@bindo.com",
+    "name": "Social Team",
+    "type": "Team (Internet)",
+    "member": [
+      "dan.merns@bindo.com",
+      "jason.ngan@bindo.com"
+    ]
+  },
+  {
+    "email": "stephen.ng@bindo.com",
+    "name": "Stephen Ng",
+    "type": "Custom",
+    "member": [
+      "stephen.ng@antcosa.com",
+      "stephen.ng@bindo.co"
+    ]
+  },
+  {
+    "email": "store-usa@bindo.com",
+    "name": "Bindo USA Store",
+    "type": "Team (Internet)",
+    "member": [
+      "dan.merns@bindo.com",
+      "support@bindo.com"
+    ]
+  },
+  {
+    "email": "store.activation@bindo.com",
+    "name": "Store Activation",
+    "type": "Team (Internet)",
+    "member": [
+      "dan.merns@bindo.com",
+      "irene.chan@bindo.com",
+      "jason.ngan@bindo.com",
+      "michael.hwang@bindo.com"
+    ]
+  },
+  {
+    "email": "storefront-activation@bindo.com",
+    "name": "Storefront Activation",
+    "type": "Team (domain)",
+    "member": [
+      "support@bindo.com"
+    ]
+  },
+  {
+    "email": "sumome@bindo.com",
+    "name": "SumoMe",
+    "type": "Team (Internet)",
+    "member": [
+      "jason.ngan@bindo.com"
+    ]
+  },
+  {
+    "email": "sunshine@bindo.com",
+    "name": "Sunshine | Customer",
+    "type": "Team (Internet)",
+    "member": [
+      "irene.chan@bindo.com",
+      "jason.ngan@bindo.com"
+    ]
+  },
+  {
+    "email": "support.apac@bindo.com",
+    "name": "Support APAC | Bindo",
+    "type": "Team (Internet)",
+    "member": [
+      "alfred.wong@bindo.com",
+      "angel.lai@bindo.com",
+      "cara.lee@antcosa.com",
+      "florence.ng@bindo.com",
+      "irene.chan@bindo.com",
+      "issac.yan@bindo.com",
+      "ken.mui@bindo.com",
+      "sean.hui@antcosa.com",
+      "tammy.tam@bindo.com",
+      "willy.tam@bindo.com",
+      "wilson.tam@bindo.com"
+    ]
+  },
+  {
+    "email": "support.hk@bindo.com",
+    "name": "Bindo Support HK",
+    "type": "Team (domain)",
+    "member": [
+      "irene.chan@bindo.com",
+      "jason.ngan@bindo.com",
+      "wilson.tam@bindo.com"
+    ]
+  },
+  {
+    "email": "support.internal@bindo.com",
+    "name": "Bindo Internal Support",
+    "type": "Team (Internet)",
+    "member": [
+      "irene.chan@bindo.com",
+      "jason.ngan@bindo.com"
+    ]
+  },
+  {
+    "email": "support.team@bindo.com",
+    "name": "Support Team",
+    "type": "Team (Internet)",
+    "member": [
+      "dan.merns@bindo.com",
+      "femi.alao.temp@bindo.com",
+      "irene.chan@bindo.com",
+      "jason.ngan@bindo.com",
+      "michael.hwang@bindo.com",
+      "patrick.rhea@bindo.com"
+    ]
+  },
+  {
+    "email": "system.operation@bindo.com",
+    "name": "System Operation Monitor",
+    "type": "Team (Internet)",
+    "member": [
+      "jason.ngan@bindo.com",
+      "levey.zhu@bindo.com"
+    ]
+  },
+  {
+    "email": "taskrabbit@bindo.com",
+    "name": "Task Rabbit",
+    "type": "Team (Internet)",
+    "member": [
+      "irene.chan@bindo.com",
+      "jason.ngan@bindo.com"
+    ]
+  },
+  {
+    "email": "team.beauty.express@bindo.com",
+    "name": "Team Beauty Express",
+    "type": "Team (Internet)",
+    "member": [
+      "angel.lai@bindo.com",
+      "cass.fok@bindo.com",
+      "irene.chan@bindo.com",
+      "jason.mak@bindo.com",
+      "jason.ngan@bindo.com"
+    ]
+  },
+  {
+    "email": "teamviewer.kds@bindo.com",
+    "name": "Team View KDS",
+    "type": "Team (Internet)",
+    "member": [
+      "irene.chan@bindo.com"
+    ]
+  },
+  {
+    "email": "telemarketing@bindo.com",
+    "name": "Telemarketing",
+    "type": "Team (Internet)",
+    "member": [
+      "jason.ngan@bindo.com"
+    ]
+  },
+  {
+    "email": "tencentpay@bindo.com",
+    "name": "Tencent Pay",
+    "type": "Custom",
+    "member": [
+      "alison.ngan@bindo.com",
+      "jason.ngan@bindo.com",
+      "tencentpaycn@bindo.com"
+    ]
+  },
+  {
+    "email": "tencentpaycn1@bindo.com",
+    "name": "tencentpayCN1@bindo.com",
+    "type": "Team (Internet)",
+    "member": [
+      "jason.ngan@bindo.com",
+      "lisa.qin@bindo.co"
+    ]
+  },
+  {
+    "email": "tencentpaycn@bindo.com",
+    "name": "tencentpaycn@bindo.com",
+    "type": "Team (Internet)",
+    "member": [
+      "lisa.qin@bindo.copayment.team@bindo.com"
+    ]
+  },
+  {
+    "email": "testapp@bindo.com",
+    "name": "testapp@bindo.com",
+    "type": "Team (Internet)",
+    "member": [
+      "alan.tang@bindolabs.com",
+      "alison.ngan@bindo.com",
+      "jason.ngan@bindo.com"
+    ]
+  },
+  {
+    "email": "tiffany.cheung@bindo.com",
+    "name": "Tiffany Cheung",
+    "type": "Team (Internet)",
+    "member": [
+      "tiffany.cheung@bindolabs.com"
+    ]
+  },
+  {
+    "email": "timepayment@bindo.com",
+    "name": "Timepayment",
+    "type": "Team (Internet)",
+    "member": [
+      "irene.chan@bindo.com",
+      "jason.ngan@bindo.com"
+    ]
+  },
+  {
+    "email": "traction@bindo.com",
+    "name": "Traction",
+    "type": "Custom",
+    "member": [
+      "irene.chan@bindo.com",
+      "jason.ngan@bindo.com"
+    ]
+  },
+  {
+    "email": "trustedpos@bindo.com",
+    "name": "TrustedPOS",
+    "type": "Team (Internet)",
+    "member": [
+      "jason.ngan@bindo.com"
+    ]
+  },
+  {
+    "email": "tshirt@bindo.com",
+    "name": "tshirt",
+    "type": "Team (Internet)",
+    "member": [
+      "irene.chan@bindo.com",
+      "jason.ngan@bindo.com"
+    ]
+  },
+  {
+    "email": "unifi-portal@bindo.com",
+    "name": "Unifi Portal",
+    "type": "Team (Internet)",
+    "member": [
+      "jason.ngan@bindo.com"
+    ]
+  },
+  {
+    "email": "unifi.admin@bindo.com",
+    "name": "Unifi Admin",
+    "type": "Team (Internet)",
+    "member": [
+      "jason.ngan@bindo.com"
+    ]
+  },
+  {
+    "email": "upwork@bindo.com",
+    "name": "Upwork",
+    "type": "Team (Internet)",
+    "member": [
+      "irene.chan@bindo.com",
+      "jason.ngan@bindo.com"
+    ]
+  },
+  {
+    "email": "urgent.support.team@bindo.com",
+    "name": "Urgent Support Team",
+    "type": "Team (Internet)",
+    "member": [
+      "dan.merns@bindo.com",
+      "femi.alao.temp@bindo.com",
+      "irene.chan@bindo.com",
+      "jason.ngan@bindo.com",
+      "levey.zhu@bindo.com",
+      "michael.hwang@bindo.com"
+    ]
+  },
+  {
+    "email": "vantiv.file.subscribers@bindo.com",
+    "name": "vantiv.file.subscribers",
+    "type": "Team (Internet)",
+    "member": [
+      "fileservices@bindolabs.com",
+      "jason.ngan@bindo.com"
+    ]
+  },
+  {
+    "email": "vantivsftptransmission.subscribers@bindo.com",
+    "name": "Vantiv SFTP Transmission Subscribers",
+    "type": "Team (Internet)",
+    "member": [
+      "jason.ngan@bindo.com"
+    ]
+  },
+  {
+    "email": "victor.sin@bindo.com",
+    "name": "Victor Sin",
+    "type": "Custom",
+    "member": [
+      "victor.sin@antcosa.com",
+      "victor.sin@bindo.co"
+    ]
+  },
+  {
+    "email": "video.team@bindo.com",
+    "name": "Video Team",
+    "type": "Team (Internet)",
+    "member": [
+      "irene.chan@bindo.com",
+      "jason.ngan@bindo.com"
+    ]
+  },
+  {
+    "email": "vincent.so@bindo.com",
+    "name": "Vincent So",
+    "type": "Custom",
+    "member": [
+      "vincent.so.temp@antcosa.com"
+    ]
+  },
+  {
+    "email": "vincent.yin@bindo.com",
+    "name": "Vincent Yin | Bindo",
+    "type": "Team (Internet)",
+    "member": [
+      "vincent.yin@antcosa.com"
+    ]
+  },
+  {
+    "email": "voice@bindo.com",
+    "name": "Voice",
+    "type": "Team (Internet)",
+    "member": [
+      "jason.ngan@bindo.com"
+    ]
+  },
+  {
+    "email": "voucher.importer@bindo.com",
+    "name": "Voucher Importer",
+    "type": "Team (Internet)",
+    "member": [
+      "irene.chan@bindo.com"
+    ]
+  },
+  {
+    "email": "wechat.developer@bindo.com",
+    "name": "Wechat Developer",
+    "type": "Team (Internet)",
+    "member": [
+      "jason.ngan@bindo.com"
+    ]
+  },
+  {
+    "email": "wechat.service@bindo.com",
+    "name": "Wechat Service Account",
+    "type": "Team (Internet)",
+    "member": [
+      "jason.ngan@bindo.com"
+    ]
+  },
+  {
+    "email": "wechat.subscribe@bindo.com",
+    "name": "Wechat Subscribe",
+    "type": "Team (Internet)",
+    "member": [
+      "jason.ngan@bindo.com"
+    ]
+  },
+  {
+    "email": "weixin.devtool@bindo.com",
+    "name": "wexin.devtool",
+    "type": "Team (Internet)",
+    "member": [
+      "jason.ngan@bindo.com"
+    ]
+  },
+  {
+    "email": "wenlong.feng@bindo.com",
+    "name": "Wenlong Feng",
+    "type": "Team (Internet)",
+    "member": [
+      "wenlong.feng@antcosa.com"
+    ]
+  },
+  {
+    "email": "wheat.yang@bindo.com",
+    "name": "Wheat Yang",
+    "type": "Team (Internet)",
+    "member": [
+      "wheat.yang@antcosa.com"
+    ]
+  },
+  {
+    "email": "william.cheng@bindo.com",
+    "name": "William Cheng",
+    "type": "Team (Internet)",
+    "member": [
+      "william.cheng@antcosa.com"
+    ]
+  },
+  {
+    "email": "william.chow@bindo.com",
+    "name": "William Chow",
+    "type": "Custom",
+    "member": [
+      "william.chow@antcosa.com",
+      "william.chow@bindo.co"
+    ]
+  },
+  {
+    "email": "wilson.tam@bindo.com",
+    "name": "Wilson Tam | Bindo",
+    "type": "Team (Internet)",
+    "member": [
+      "wilson.tam@antcosa.com",
+      "wilson.tam@bindo.co"
+    ]
+  },
+  {
+    "email": "worldpay@bindo.com",
+    "name": "Worldpay",
+    "type": "Team (Internet)",
+    "member": [
+      "dan.merns@bindo.com",
+      "jason.ngan@bindo.com"
+    ]
+  },
+  {
+    "email": "wrapbootstrap@bindo.com",
+    "name": "wrapbootstrap",
+    "type": "Team (Internet)",
+    "member": [
+      "jason.ngan@bindo.com"
+    ]
+  },
+  {
+    "email": "xbox@bindo.com",
+    "name": "xbox",
+    "type": "Team (Internet)",
+    "member": [
+      "irene.chan@bindo.com",
+      "jason.ngan@bindo.com"
+    ]
+  },
+  {
+    "email": "yori.zhao@bindo.com",
+    "name": "Yori Zhao | Bindo",
+    "type": "Team (Internet)",
+    "member": [
+      "yori.zhao@antcosa.com"
+    ]
+  },
+  {
+    "email": "ys.chai@bindo.com",
+    "name": "YS Chai",
+    "type": "Team (Internet)",
+    "member": [
+      "ys.chai@antcosa.com"
+    ]
+  }
+]
